@@ -1,0 +1,13 @@
+body{
+  /* background-color/: black; */
+  /* overflow: hidden; */
+}
+
+.run-box{
+  width: 72%;
+}
+
+
+.result{
+  height: 200px;
+}
